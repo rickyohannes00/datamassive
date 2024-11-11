@@ -1,0 +1,553 @@
+Soil_Type,Crop_Type,Fertilizer
+Clayey,rice,Urea
+Loamy,rice,Urea
+Loamy,Wheat,Urea
+Loamy,Wheat,Urea
+Loamy,Wheat,Urea
+Red,Tobacco,Urea
+Loamy,Sugarcane,Urea
+Black,Sugarcane,Urea
+Clayey,Pulses,Urea
+Clayey,Pulses,Urea
+Loamy,pomegranate,Urea
+Clayey,Paddy,Urea
+Clayey,Paddy,Urea
+Clayey,Paddy,Urea
+Black,Oil seeds,Urea
+Black,Oil seeds,Urea
+Black,Millets,Urea
+Black,Millets,Urea
+Sandy,Millets,Urea
+Black,Millets,Urea
+Sandy,Maize,Urea
+Red,Ground Nuts,Urea
+Red,Ground Nuts,Urea
+Loamy,Cotton,Urea
+Black,Cotton,Urea
+Loamy,coffee,Urea
+Loamy,coffee,Urea
+Loamy,watermelon,TSP
+Loamy,rice,TSP
+Loamy,pomegranate,TSP
+Loamy,watermelon,TSP
+Loamy,watermelon,TSP
+Loamy,pomegranate,TSP
+Loamy,rice,TSP
+Loamy,pomegranate,Superphosphate
+Loamy,pomegranate,Superphosphate
+Loamy,pomegranate,Superphosphate
+Loamy,pomegranate,Potassium sulfate.
+Loamy,pomegranate,Potassium sulfate.
+Sandy,Cotton,Potassium sulfate.
+Loamy,Cotton,Potassium chloride
+Loamy,watermelon,DAP
+Loamy,watermelon,DAP
+Clayey,rice,DAP
+Loamy,Wheat,DAP
+Red,Tobacco,DAP
+Loamy,Sugarcane,DAP
+Loamy,Sugarcane,DAP
+Clayey,rice,DAP
+Clayey,Pulses,DAP
+Clayey,Paddy,DAP
+Black,Oil seeds,DAP
+Sandy,Millets,DAP
+Sandy,Millets,DAP
+Red,Ground Nuts,DAP
+Red,Ground Nuts,DAP
+Red,Ground Nuts,DAP
+Sandy,Cotton,DAP
+Loamy,Cotton,DAP
+Red,Cotton,DAP
+Red,Cotton,DAP
+Black,Cotton,DAP
+Loamy,Cotton,DAP
+Sandy,coffee,DAP
+Sandy,coffee,DAP
+Sandy,Barley,DAP
+Sandy,Barley,DAP
+Loamy,Wheat,28-28
+Loamy,Wheat,28-28
+Red,Tobacco,28-28
+Red,Tobacco,28-28
+Red,Tobacco,28-28
+Clayey,Pulses,28-28
+Clayey,Pulses,28-28
+Clayey,Paddy,28-28
+Clayey,Paddy,28-28
+Sandy,Millets,28-28
+Black,Millets,28-28
+Sandy,Maize,28-28
+Sandy,Maize,28-28
+Red,Ground Nuts,28-28
+Black,Cotton,28-28
+Sandy,Barley,28-28
+Sandy,Barley,28-28
+Loamy,Wheat,20-20
+Black,Sugarcane,20-20
+Loamy,Sugarcane,20-20
+Loamy,Sugarcane,20-20
+Black,Sugarcane,20-20
+Clayey,Pulses,20-20
+Clayey,Pulses,20-20
+Clayey,Paddy,20-20
+Black,Oil seeds,20-20
+Black,Oil seeds,20-20
+Sandy,Millets,20-20
+Sandy,Millets,20-20
+Sandy,Millets,20-20
+Red,Cotton,20-20
+Black,Sugarcane,17-17-17
+Loamy,Sugarcane,17-17-17
+Loamy,Sugarcane,17-17-17
+Sandy,Maize,17-17-17
+Red,Ground Nuts,17-17-17
+Red,Cotton,17-17-17
+Sandy,Barley,17-17-17
+Clayey,kidneybeans,15-15-15
+Loamy,kidneybeans,15-15-15
+Loamy,kidneybeans,15-15-15
+Loamy,kidneybeans,15-15-15
+Loamy,Wheat,14-35-14
+Loamy,Sugarcane,14-35-14
+Loamy,Sugarcane,14-35-14
+Clayey,Pulses,14-35-14
+Clayey,Paddy,14-35-14
+Clayey,Paddy,14-35-14
+Black,Oil seeds,14-35-14
+Black,Oil seeds,14-35-14
+Sandy,Maize,14-35-14
+Sandy,Maize,14-35-14
+Black,Cotton,14-35-14
+Red,Cotton,14-35-14
+Loamy,Cotton,14-35-14
+Sandy,Barley,14-35-14
+Loamy,orange,14-14-14
+Loamy,orange,14-14-14
+Loamy,orange,14-14-14
+Loamy,orange,14-14-14
+Loamy,Wheat,10/26/2026
+Red,Tobacco,10/26/2026
+Red,Tobacco,10/26/2026
+Clayey,Pulses,10/26/2026
+Clayey,Pulses,10/26/2026
+Clayey,Paddy,10/26/2026
+Sandy,Barley,10/26/2026
+Sandy,orange,10/10/2010
+Sandy,orange,10/10/2010
+Sandy,orange,10/10/2010
+Clayey,kidneybeans,10/10/2010
+Clayey,rice,Urea
+Clayey,rice,Urea
+Clayey,rice,Urea
+Loamy,rice,Urea
+Loamy,rice,Urea
+Loamy,rice,Urea
+Loamy,Wheat,Urea
+Loamy,Wheat,Urea
+Loamy,Wheat,Urea
+Loamy,Wheat,Urea
+Loamy,Wheat,Urea
+Loamy,Wheat,Urea
+Loamy,Wheat,Urea
+Loamy,Wheat,Urea
+Loamy,Wheat,Urea
+Red,Tobacco,Urea
+Red,Tobacco,Urea
+Red,Tobacco,Urea
+Loamy,Sugarcane,Urea
+Loamy,Sugarcane,Urea
+Loamy,Sugarcane,Urea
+Black,Sugarcane,Urea
+Black,Sugarcane,Urea
+Black,Sugarcane,Urea
+Clayey,Pulses,Urea
+Clayey,Pulses,Urea
+Clayey,Pulses,Urea
+Clayey,Pulses,Urea
+Clayey,Pulses,Urea
+Clayey,Pulses,Urea
+Loamy,pomegranate,Urea
+Loamy,pomegranate,Urea
+Loamy,pomegranate,Urea
+Clayey,Paddy,Urea
+Clayey,Paddy,Urea
+Clayey,Paddy,Urea
+Clayey,Paddy,Urea
+Clayey,Paddy,Urea
+Clayey,Paddy,Urea
+Clayey,Paddy,Urea
+Clayey,Paddy,Urea
+Clayey,Paddy,Urea
+Black,Oil seeds,Urea
+Black,Oil seeds,Urea
+Black,Oil seeds,Urea
+Black,Oil seeds,Urea
+Black,Oil seeds,Urea
+Black,Oil seeds,Urea
+Black,Millets,Urea
+Black,Millets,Urea
+Black,Millets,Urea
+Black,Millets,Urea
+Black,Millets,Urea
+Black,Millets,Urea
+Sandy,Millets,Urea
+Sandy,Millets,Urea
+Sandy,Millets,Urea
+Black,Millets,Urea
+Black,Millets,Urea
+Black,Millets,Urea
+Sandy,Maize,Urea
+Sandy,Maize,Urea
+Sandy,Maize,Urea
+Red,Ground Nuts,Urea
+Red,Ground Nuts,Urea
+Red,Ground Nuts,Urea
+Red,Ground Nuts,Urea
+Red,Ground Nuts,Urea
+Red,Ground Nuts,Urea
+Loamy,Cotton,Urea
+Loamy,Cotton,Urea
+Loamy,Cotton,Urea
+Black,Cotton,Urea
+Black,Cotton,Urea
+Black,Cotton,Urea
+Loamy,coffee,Urea
+Loamy,coffee,Urea
+Loamy,coffee,Urea
+Loamy,coffee,Urea
+Loamy,coffee,Urea
+Loamy,coffee,Urea
+Loamy,watermelon,TSP
+Loamy,watermelon,TSP
+Loamy,watermelon,TSP
+Loamy,rice,TSP
+Loamy,rice,TSP
+Loamy,rice,TSP
+Loamy,pomegranate,TSP
+Loamy,pomegranate,TSP
+Loamy,pomegranate,TSP
+Loamy,watermelon,TSP
+Loamy,watermelon,TSP
+Loamy,watermelon,TSP
+Loamy,watermelon,TSP
+Loamy,watermelon,TSP
+Loamy,watermelon,TSP
+Loamy,pomegranate,TSP
+Loamy,pomegranate,TSP
+Loamy,pomegranate,TSP
+Loamy,rice,TSP
+Loamy,rice,TSP
+Loamy,rice,TSP
+Loamy,pomegranate,Superphosphate
+Loamy,pomegranate,Superphosphate
+Loamy,pomegranate,Superphosphate
+Loamy,pomegranate,Superphosphate
+Loamy,pomegranate,Superphosphate
+Loamy,pomegranate,Superphosphate
+Loamy,pomegranate,Superphosphate
+Loamy,pomegranate,Superphosphate
+Loamy,pomegranate,Superphosphate
+Loamy,pomegranate,Potassium sulfate.
+Loamy,pomegranate,Potassium sulfate.
+Loamy,pomegranate,Potassium sulfate.
+Loamy,pomegranate,Potassium sulfate.
+Loamy,pomegranate,Potassium sulfate.
+Loamy,pomegranate,Potassium sulfate.
+Sandy,Cotton,Potassium sulfate.
+Sandy,Cotton,Potassium sulfate.
+Sandy,Cotton,Potassium sulfate.
+Loamy,Cotton,Potassium chloride
+Loamy,Cotton,Potassium chloride
+Loamy,Cotton,Potassium chloride
+Loamy,watermelon,DAP
+Loamy,watermelon,DAP
+Loamy,watermelon,DAP
+Loamy,watermelon,DAP
+Loamy,watermelon,DAP
+Loamy,watermelon,DAP
+Clayey,rice,DAP
+Clayey,rice,DAP
+Clayey,rice,DAP
+Loamy,Wheat,DAP
+Loamy,Wheat,DAP
+Loamy,Wheat,DAP
+Red,Tobacco,DAP
+Red,Tobacco,DAP
+Red,Tobacco,DAP
+Loamy,Sugarcane,DAP
+Loamy,Sugarcane,DAP
+Loamy,Sugarcane,DAP
+Loamy,Sugarcane,DAP
+Loamy,Sugarcane,DAP
+Loamy,Sugarcane,DAP
+Clayey,rice,DAP
+Clayey,rice,DAP
+Clayey,rice,DAP
+Clayey,Pulses,DAP
+Clayey,Pulses,DAP
+Clayey,Pulses,DAP
+Clayey,Paddy,DAP
+Clayey,Paddy,DAP
+Clayey,Paddy,DAP
+Black,Oil seeds,DAP
+Black,Oil seeds,DAP
+Black,Oil seeds,DAP
+Sandy,Millets,DAP
+Sandy,Millets,DAP
+Sandy,Millets,DAP
+Sandy,Millets,DAP
+Sandy,Millets,DAP
+Sandy,Millets,DAP
+Red,Ground Nuts,DAP
+Red,Ground Nuts,DAP
+Red,Ground Nuts,DAP
+Red,Ground Nuts,DAP
+Red,Ground Nuts,DAP
+Red,Ground Nuts,DAP
+Red,Ground Nuts,DAP
+Red,Ground Nuts,DAP
+Red,Ground Nuts,DAP
+Sandy,Cotton,DAP
+Sandy,Cotton,DAP
+Sandy,Cotton,DAP
+Loamy,Cotton,DAP
+Loamy,Cotton,DAP
+Loamy,Cotton,DAP
+Red,Cotton,DAP
+Red,Cotton,DAP
+Red,Cotton,DAP
+Red,Cotton,DAP
+Red,Cotton,DAP
+Red,Cotton,DAP
+Black,Cotton,DAP
+Black,Cotton,DAP
+Black,Cotton,DAP
+Loamy,Cotton,DAP
+Loamy,Cotton,DAP
+Loamy,Cotton,DAP
+Sandy,coffee,DAP
+Sandy,coffee,DAP
+Sandy,coffee,DAP
+Sandy,coffee,DAP
+Sandy,coffee,DAP
+Sandy,coffee,DAP
+Sandy,Barley,DAP
+Sandy,Barley,DAP
+Sandy,Barley,DAP
+Sandy,Barley,DAP
+Sandy,Barley,DAP
+Sandy,Barley,DAP
+Loamy,Wheat,28-28
+Loamy,Wheat,28-28
+Loamy,Wheat,28-28
+Loamy,Wheat,28-28
+Loamy,Wheat,28-28
+Loamy,Wheat,28-28
+Red,Tobacco,28-28
+Red,Tobacco,28-28
+Red,Tobacco,28-28
+Red,Tobacco,28-28
+Red,Tobacco,28-28
+Red,Tobacco,28-28
+Red,Tobacco,28-28
+Red,Tobacco,28-28
+Red,Tobacco,28-28
+Clayey,Pulses,28-28
+Clayey,Pulses,28-28
+Clayey,Pulses,28-28
+Clayey,Pulses,28-28
+Clayey,Pulses,28-28
+Clayey,Pulses,28-28
+Clayey,Paddy,28-28
+Clayey,Paddy,28-28
+Clayey,Paddy,28-28
+Clayey,Paddy,28-28
+Clayey,Paddy,28-28
+Clayey,Paddy,28-28
+Sandy,Millets,28-28
+Sandy,Millets,28-28
+Sandy,Millets,28-28
+Black,Millets,28-28
+Black,Millets,28-28
+Black,Millets,28-28
+Sandy,Maize,28-28
+Sandy,Maize,28-28
+Sandy,Maize,28-28
+Sandy,Maize,28-28
+Sandy,Maize,28-28
+Sandy,Maize,28-28
+Red,Ground Nuts,28-28
+Red,Ground Nuts,28-28
+Red,Ground Nuts,28-28
+Black,Cotton,28-28
+Black,Cotton,28-28
+Black,Cotton,28-28
+Sandy,Barley,28-28
+Sandy,Barley,28-28
+Sandy,Barley,28-28
+Sandy,Barley,28-28
+Sandy,Barley,28-28
+Sandy,Barley,28-28
+Loamy,Wheat,20-20
+Loamy,Wheat,20-20
+Loamy,Wheat,20-20
+Black,Sugarcane,20-20
+Black,Sugarcane,20-20
+Black,Sugarcane,20-20
+Loamy,Sugarcane,20-20
+Loamy,Sugarcane,20-20
+Loamy,Sugarcane,20-20
+Loamy,Sugarcane,20-20
+Loamy,Sugarcane,20-20
+Loamy,Sugarcane,20-20
+Black,Sugarcane,20-20
+Black,Sugarcane,20-20
+Black,Sugarcane,20-20
+Clayey,Pulses,20-20
+Clayey,Pulses,20-20
+Clayey,Pulses,20-20
+Clayey,Pulses,20-20
+Clayey,Pulses,20-20
+Clayey,Pulses,20-20
+Clayey,Paddy,20-20
+Clayey,Paddy,20-20
+Clayey,Paddy,20-20
+Black,Oil seeds,20-20
+Black,Oil seeds,20-20
+Black,Oil seeds,20-20
+Black,Oil seeds,20-20
+Black,Oil seeds,20-20
+Black,Oil seeds,20-20
+Sandy,Millets,20-20
+Sandy,Millets,20-20
+Sandy,Millets,20-20
+Sandy,Millets,20-20
+Sandy,Millets,20-20
+Sandy,Millets,20-20
+Sandy,Millets,20-20
+Sandy,Millets,20-20
+Sandy,Millets,20-20
+Red,Cotton,20-20
+Red,Cotton,20-20
+Red,Cotton,20-20
+Black,Sugarcane,17-17-17
+Black,Sugarcane,17-17-17
+Black,Sugarcane,17-17-17
+Loamy,Sugarcane,17-17-17
+Loamy,Sugarcane,17-17-17
+Loamy,Sugarcane,17-17-17
+Loamy,Sugarcane,17-17-17
+Loamy,Sugarcane,17-17-17
+Loamy,Sugarcane,17-17-17
+Sandy,Maize,17-17-17
+Sandy,Maize,17-17-17
+Sandy,Maize,17-17-17
+Red,Ground Nuts,17-17-17
+Red,Ground Nuts,17-17-17
+Red,Ground Nuts,17-17-17
+Red,Cotton,17-17-17
+Red,Cotton,17-17-17
+Red,Cotton,17-17-17
+Sandy,Barley,17-17-17
+Sandy,Barley,17-17-17
+Sandy,Barley,17-17-17
+Clayey,kidneybeans,15-15-15
+Clayey,kidneybeans,15-15-15
+Clayey,kidneybeans,15-15-15
+Loamy,kidneybeans,15-15-15
+Loamy,kidneybeans,15-15-15
+Loamy,kidneybeans,15-15-15
+Loamy,kidneybeans,15-15-15
+Loamy,kidneybeans,15-15-15
+Loamy,kidneybeans,15-15-15
+Loamy,kidneybeans,15-15-15
+Loamy,kidneybeans,15-15-15
+Loamy,kidneybeans,15-15-15
+Loamy,Wheat,14-35-14
+Loamy,Wheat,14-35-14
+Loamy,Wheat,14-35-14
+Loamy,Sugarcane,14-35-14
+Loamy,Sugarcane,14-35-14
+Loamy,Sugarcane,14-35-14
+Loamy,Sugarcane,14-35-14
+Loamy,Sugarcane,14-35-14
+Loamy,Sugarcane,14-35-14
+Clayey,Pulses,14-35-14
+Clayey,Pulses,14-35-14
+Clayey,Pulses,14-35-14
+Clayey,Paddy,14-35-14
+Clayey,Paddy,14-35-14
+Clayey,Paddy,14-35-14
+Clayey,Paddy,14-35-14
+Clayey,Paddy,14-35-14
+Clayey,Paddy,14-35-14
+Black,Oil seeds,14-35-14
+Black,Oil seeds,14-35-14
+Black,Oil seeds,14-35-14
+Black,Oil seeds,14-35-14
+Black,Oil seeds,14-35-14
+Black,Oil seeds,14-35-14
+Sandy,Maize,14-35-14
+Sandy,Maize,14-35-14
+Sandy,Maize,14-35-14
+Sandy,Maize,14-35-14
+Sandy,Maize,14-35-14
+Sandy,Maize,14-35-14
+Black,Cotton,14-35-14
+Black,Cotton,14-35-14
+Black,Cotton,14-35-14
+Red,Cotton,14-35-14
+Red,Cotton,14-35-14
+Red,Cotton,14-35-14
+Loamy,Cotton,14-35-14
+Loamy,Cotton,14-35-14
+Loamy,Cotton,14-35-14
+Sandy,Barley,14-35-14
+Sandy,Barley,14-35-14
+Sandy,Barley,14-35-14
+Loamy,orange,14-14-14
+Loamy,orange,14-14-14
+Loamy,orange,14-14-14
+Loamy,orange,14-14-14
+Loamy,orange,14-14-14
+Loamy,orange,14-14-14
+Loamy,orange,14-14-14
+Loamy,orange,14-14-14
+Loamy,orange,14-14-14
+Loamy,orange,14-14-14
+Loamy,orange,14-14-14
+Loamy,orange,14-14-14
+Loamy,Wheat,10/26/2026
+Loamy,Wheat,10/26/2026
+Loamy,Wheat,10/26/2026
+Red,Tobacco,10/26/2026
+Red,Tobacco,10/26/2026
+Red,Tobacco,10/26/2026
+Red,Tobacco,10/26/2026
+Red,Tobacco,10/26/2026
+Red,Tobacco,10/26/2026
+Clayey,Pulses,10/26/2026
+Clayey,Pulses,10/26/2026
+Clayey,Pulses,10/26/2026
+Clayey,Pulses,10/26/2026
+Clayey,Pulses,10/26/2026
+Clayey,Pulses,10/26/2026
+Clayey,Paddy,10/26/2026
+Clayey,Paddy,10/26/2026
+Clayey,Paddy,10/26/2026
+Sandy,Barley,10/26/2026
+Sandy,Barley,10/26/2026
+Sandy,Barley,10/26/2026
+Sandy,orange,10/10/2010
+Sandy,orange,10/10/2010
+Sandy,orange,10/10/2010
+Sandy,orange,10/10/2010
+Sandy,orange,10/10/2010
+Sandy,orange,10/10/2010
+Sandy,orange,10/10/2010
+Sandy,orange,10/10/2010
+Sandy,orange,10/10/2010
+Clayey,kidneybeans,10/10/2010
+Clayey,kidneybeans,10/10/2010
+Clayey,kidneybeans,10/10/2010
